@@ -1,0 +1,27 @@
+1. Universal Selector 
+*
+box-sizing: border-box
+
+
+2. Type Selector
+3. Class Selector
+4. Child Selector : direct Children not all disendents
+ a > div
+
+a[href="https://example.com"]
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+
+5. Descendent Selectors: 
+article p{ // all p descentes of p
+
+}
+
+6. Adjacent Sibling 
+
+Descendant combinator (space)
+Child combinator (>)
+Next sibling combinator (+)
+Subsequent-sibling combinator (~)
+
+try to read css selectors from right to left
